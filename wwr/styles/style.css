@@ -34,7 +34,7 @@ main section {
 }
 #background {
 	height: 725px;
-	background-color: rgb(121, 255, 255);
+	background-color: #6f7364;
 }
 body {
 	background-color: #fcfbfb;
@@ -47,7 +47,7 @@ h2 {
     margin: 0;
 }
 header {
-	background-color: rgb(121, 255, 255);
+	background-color: #6f7364;
 }
 nav a:hover {
 	background-color: rgb(81, 9, 250);
